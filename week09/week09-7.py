@@ -13,3 +13,4 @@ class Solution:
             if a[i+1] - a[i] != d :  #距離不相等
                 return False
         return True
+
